@@ -58,7 +58,7 @@
 	</nav>
     <div id="sidebar-collapse" class="col-sm-3 col-lg-2 sidebar">
         <ul class="nav menu">
-            <li><a href="http://197.155.65.30/twosd/frmFacilityHome.aspx"><em class="fa fa-dashboard">
+            <li><a href="http://196.200.26.38:8081/database/frmFacilityHome.aspx"><em class="fa fa-dashboard">
                 &nbsp;</em> Go back to Study Database</a></li>
         </ul>
     </div>
@@ -104,6 +104,11 @@
                         <asp:ListItem>Adverse Events Form</asp:ListItem>
                         <asp:ListItem>Enrollment Form</asp:ListItem>
                         <asp:ListItem>Follow up visit</asp:ListItem>
+
+                        <asp:ListItem>BMD Supplemental Enrolment Visit</asp:ListItem>
+                        <asp:ListItem>BMD Supplemental Followup Visit</asp:ListItem>
+                        <asp:ListItem>BMD Imaging Results</asp:ListItem>
+
                         <asp:ListItem>Kidadisi cha Kuridhika na Matibabu ya VVU(HIVTSQc)</asp:ListItem>
                         <asp:ListItem>Kidadisi cha Kuridhika na Matibabu ya VVU_HIVTSQs</asp:ListItem>
                         <asp:ListItem>Laboratory Investigation Results</asp:ListItem>

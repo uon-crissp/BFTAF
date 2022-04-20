@@ -76,6 +76,19 @@ namespace TwoSDReports
             {
                 sSQLQuery = "exec pr_LoadStudyConclusion '" + fromdate + "', '" + todate + "'"; 
             }
+            else if (ddlDataset.Text == "BMD Imaging Results")
+            {
+                sSQLQuery = "exec pr_loadBMDImagingResults '" + fromdate + "', '" + todate + "'";
+            }
+            else if (ddlDataset.Text == "BMD Supplemental Enrolment Visit")
+            {
+                sSQLQuery = "exec pr_loadBMDEnrollmentVisit '" + fromdate + "', '" + todate + "'";
+            }
+            else if (ddlDataset.Text == "BMD Supplemental Followup Visit")
+            {
+                sSQLQuery = "exec pr_loadBMDFollowupVisit '" + fromdate + "', '" + todate + "'";
+            }
+
 
             try
             {
