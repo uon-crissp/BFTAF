@@ -58,7 +58,7 @@
 	</nav>
     <div id="sidebar-collapse" class="col-sm-3 col-lg-2 sidebar">
         <ul class="nav menu">
-            <li><a href="http://196.200.26.38:8081/database/frmFacilityHome.aspx"><em class="fa fa-dashboard">
+            <li><a href="https://bftaf.uonbi.ac.ke/database/frmFacilityHome.aspx"><em class="fa fa-dashboard">
                 &nbsp;</em> Go back to Study Database</a></li>
         </ul>
     </div>
@@ -117,6 +117,8 @@
                         <asp:ListItem>Prescreening Assessment Form</asp:ListItem>
                         <asp:ListItem>Screening visit form</asp:ListItem>
                         <asp:ListItem>Study Conclusion Form</asp:ListItem>
+
+                        <asp:ListItem>Frailty Questionnaire</asp:ListItem>
                     </asp:DropDownList>
                 </div>
             </div>

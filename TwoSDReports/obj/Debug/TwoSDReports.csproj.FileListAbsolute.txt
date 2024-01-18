@@ -4,3 +4,11 @@ C:\Dropbox\Apps\TwoSDReports\TwoSDReports\obj\Debug\TwoSDReports.dll
 C:\Dropbox\Apps\TwoSDReports\TwoSDReports\obj\Debug\TwoSDReports.pdb
 C:\Dropbox\Apps\TwoSDReports\TwoSDReports\bin\EPPlus.dll
 C:\Dropbox\Apps\TwoSDReports\TwoSDReports\obj\Debug\TwoSDReports.csprojResolveAssemblyReference.cache
+C:\development\das\BFTAF\TwoSDReports\bin\TwoSDReports.dll.config
+C:\development\das\BFTAF\TwoSDReports\bin\TwoSDReports.dll
+C:\development\das\BFTAF\TwoSDReports\bin\TwoSDReports.pdb
+C:\development\das\BFTAF\TwoSDReports\obj\Debug\TwoSDReports.csproj.AssemblyReference.cache
+C:\development\das\BFTAF\TwoSDReports\obj\Debug\TwoSDReports.csproj.CoreCompileInputs.cache
+C:\development\das\BFTAF\TwoSDReports\obj\Debug\TwoSDReports.csproj.CopyComplete
+C:\development\das\BFTAF\TwoSDReports\obj\Debug\TwoSDReports.dll
+C:\development\das\BFTAF\TwoSDReports\obj\Debug\TwoSDReports.pdb

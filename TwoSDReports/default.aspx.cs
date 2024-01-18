@@ -88,7 +88,10 @@ namespace TwoSDReports
             {
                 sSQLQuery = "exec pr_loadBMDFollowupVisit '" + fromdate + "', '" + todate + "'";
             }
-
+            else if (ddlDataset.Text == "Frailty Questionnaire")
+            {
+                sSQLQuery = "exec pr_LoadFrailtyQuestionnaire '" + fromdate + "', '" + todate + "'";
+            }
 
             try
             {
