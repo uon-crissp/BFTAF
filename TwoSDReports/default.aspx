@@ -119,6 +119,10 @@
                         <asp:ListItem>Study Conclusion Form</asp:ListItem>
 
                         <asp:ListItem>Frailty Questionnaire</asp:ListItem>
+
+                        <asp:ListItem>Lab Investigations Results EXTENSION</asp:ListItem>
+                        <asp:ListItem>TL XRay Results</asp:ListItem>
+                        <asp:ListItem>Study Conclusion EXTENSION</asp:ListItem>
                     </asp:DropDownList>
                 </div>
             </div>

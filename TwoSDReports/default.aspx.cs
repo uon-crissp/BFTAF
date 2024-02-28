@@ -92,6 +92,18 @@ namespace TwoSDReports
             {
                 sSQLQuery = "exec pr_LoadFrailtyQuestionnaire '" + fromdate + "', '" + todate + "'";
             }
+            else if (ddlDataset.Text == "Lab Investigations Results EXTENSION")
+            {
+                sSQLQuery = "exec pr_LoadLabInvestigationResultsExtension '" + fromdate + "', '" + todate + "'";
+            }
+            else if (ddlDataset.Text == "TL XRay Results")
+            {
+                sSQLQuery = "exec pr_LoadTLXrayResults '" + fromdate + "', '" + todate + "'";
+            }
+            else if (ddlDataset.Text == "Study Conclusion EXTENSION")
+            {
+                sSQLQuery = "exec pr_LoadStudyConclusionExtension '" + fromdate + "', '" + todate + "'";
+            }
 
             try
             {
